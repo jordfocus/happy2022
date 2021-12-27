@@ -1,0 +1,15 @@
+.page-default-style {
+    background-image: url(../img/background.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    min-width: 380px;
+}
+
+h1 {
+    font-family: 'Mountains of Christmas';font-size: 45px;
+}
+
+body {
+    font-family: 'Lobster';font-size: 15px;
+}
